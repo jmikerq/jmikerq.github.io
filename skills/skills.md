@@ -47,3 +47,13 @@ title: "My Skills"
 
 
 </div>
+
+<div class="content-block animated bounceInRight hvr-grow-shadow" markdown="1">
+
+## Certificate
+{: .content-title}
+
+* Engineering in Training, offered by APEGBC
+
+
+</div>
