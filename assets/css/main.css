@@ -795,7 +795,7 @@ pre code {
 
 .sidebar {
   /* background-color: #2d2a2a; */
-  background-image: local('☺'), url("../img/material-blue.jpg");
+  background-image: url("../img/material-blue.jpg");
   background-size: cover;
   background-position: center;
   position: fixed;
