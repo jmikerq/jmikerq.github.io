@@ -728,6 +728,7 @@ template {
 html {
   line-height: 1.5;
   font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 @media screen and (min-width: 500px) {
