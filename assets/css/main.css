@@ -856,7 +856,7 @@ pre code {
 .sidebar-logo .logo {
   font-family: 'Impact', cursive;
   text-align: left;
-  color: #FFF176;
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
   text-decoration: none;
   font-size: 3rem;
@@ -1086,11 +1086,11 @@ img.post-image, img.page-img {
   margin-right:0px;
   margin-left:0rem;
   width: 100%;
-  font-family: 'Cambria';
+  font-family: 'Futura', cursive;
 }
 
 .content-position {
-  font-family: 'Helvetica';
+  font-family: 'Futura', cursive;
   font-weight: bold;
 }
 
@@ -1108,7 +1108,7 @@ img.post-image, img.page-img {
 }
 
 .welcome-title {
-  font-family: "Trebuchet MS";
+  font-family: 'Futura', cursive;
   text-align: center;
   font-weight:bold;
   font-size: 2rem;
