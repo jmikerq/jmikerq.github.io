@@ -1060,7 +1060,7 @@ img.post-image, img.page-img {
 
 @font-face {
   font-family: Impact;
-  src: url("../fonts/impact.ttf") format('truetype');
+  src: url("fonts/impact.ttf") format('truetype');
 }
 
 .content-company {
