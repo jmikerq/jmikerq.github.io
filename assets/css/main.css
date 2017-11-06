@@ -794,7 +794,10 @@ pre code {
 }
 
 .sidebar {
-  background-color: #2d2a2a;
+  /* background-color: #2d2a2a; */
+  background-image: url("../img/material-blue.jpg");
+  background-size: cover;
+  background-position: center;
   position: fixed;
   top: 0;
   left: 0;
@@ -829,6 +832,7 @@ pre code {
           transform: translateY(3px);
   background-color: #616161;
   color: #000000;
+  font-size:1.5rem;
 }
 
 .sidebar-container {
