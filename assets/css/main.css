@@ -1103,8 +1103,7 @@ img.post-image, img.page-img {
 }
 
 .welcome-title {
-  /* font-family: "Trebuchet MS"; */
-  font-family: 'Caveat Brush', cursive;
+  font-family: "Trebuchet MS";
   text-align: center;
   font-weight:bold;
   font-size: 2rem;
