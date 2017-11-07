@@ -14,6 +14,8 @@ title: "My Skills"
 * VCS: Git, Github
 * Databases: MySQL, SQLite, MongoDB, Redis, InfluxDB 
 * Embedded hardware/software design (e.g. Arduino, Raspberry-Pi, Artik etc.)
+* REST, MQTT, JSON,TLS, pub/sub etc.
+* CI: Jenkins 
 * In process for AWS Certified Solutions Architect
 
 </div>
