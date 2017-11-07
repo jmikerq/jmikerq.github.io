@@ -854,7 +854,7 @@ pre code {
 }
 
 .sidebar-logo .logo {
-  font-family: 'Impact', cursive;
+  font-family: 'Impact';
   text-align: left;
   color: #EFF453;
   text-transform: uppercase;
@@ -1046,7 +1046,7 @@ img.post-image, img.page-img {
     margin-bottom: 3rem;
   }
   .sidebar-logo .logo {
-    font-family: 'Impact', cursive;
+    font-family: 'Impact';
   }
 }
 @media screen and (max-width: 360px) {
@@ -1058,7 +1058,7 @@ img.post-image, img.page-img {
     display: block;
   }
   .sidebar-logo .logo {
-    font-family: 'Impact', cursive;
+    font-family: 'Impact';
   }
 }
 
@@ -1108,7 +1108,7 @@ img.post-image, img.page-img {
 }
 
 .welcome-title {
-  font-family: 'Impact', cursive;
+  font-family: 'Impact';
   text-align: center;
   font-weight:bold;
   font-size: 2rem;
