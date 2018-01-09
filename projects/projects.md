@@ -13,7 +13,7 @@ Mar 2017 – October 2017
 
 * Developed and tested end-to-end IoT applications based on LoRaWAN communication technology.
 * Delivered LoRaWAN gateways and node devices using Arduino, Raspberry Pi and Multitech gateways.
-* Designed 5 different approaches to deliver data from long-distance sensors to users in different use cases2.
+* Designed 5 different approaches to deliver data from long-distance sensors to users in different use cases.
 
 </div>
 
@@ -24,7 +24,7 @@ Mar 2017 – October 2017
 October 2016 – November 2016
 {: .content-date}
 
-* Developed an accessible module that interfaces to GE Predix Timeseries (1K downloads).
+* Developed an accessible module that interfaces to GE Predix Timeseries via REST and Websocket (1K downloads).
 * Simplified the complicated and confusing setup steps to provide a clear and organized guide for users.
 * Improved the user experience by reducing the setup time and effort required for Predix Timeseries by 80%.
 * NPM link: [https://www.npmjs.com/package/node-red-contrib-predix-timeseries](https://www.npmjs.com/package/node-red-contrib-predix-timeseries)
@@ -39,7 +39,8 @@ September 2016 – October 2016
 {: .content-date}
 
 * Developed an open-source module that controls the GPIO pins on Samsung Artik kits (2.5K downloads).
-* Designed user-friendly and creative features that enabled remote control on 4 models via cloud.
+* Designed user-friendly and creative features that enabled remote control on 4 models via cloud control.
+* Used as sample in the [official Samsung Artik developer document](https://developer.artik.io/documentation/artik/tutorials/node-red.html).
 * NPM link: [https://www.npmjs.com/package/node-red-contrib-artik](https://www.npmjs.com/package/node-red-contrib-artik)
 
 </div>

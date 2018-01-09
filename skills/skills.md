@@ -10,13 +10,13 @@ title: "My Skills"
 {: .content-title}
 
 * Software languages: Python, Node.JS, Javascript, HTML/CSS, C/C++, Java, Swift
-* System Admin: Linux, OS X, Windows, AWS 
+* System Admin: Linux, OS X, Windows, AWS, Azure 
 * VCS: Git, Github
 * Databases: MySQL, SQLite, MongoDB, Redis, InfluxDB 
 * Embedded hardware/software design (e.g. Arduino, Raspberry-Pi, Artik etc.)
-* REST, MQTT, JSON,TLS, pub/sub etc.
+* REST, MQTT, Websocket, JSON, TLS, pub/sub etc.
 * CI: Jenkins 
-* In process for AWS Certified Solutions Architect
+* AWS Certified Solutions Architect - Associate
 
 </div>
 
