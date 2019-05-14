@@ -1,0 +1,238 @@
+.navbar-default .nav > li > a, 
+.navbar-default .nav > li > a:focus,
+.navbar-default .navbar-header .navbar-brand {
+  font-family: 'Comfortaa', cursive;
+  color:black;
+}
+
+header .header-content .header-content-inner h1,
+header .header-content .header-content-inner h2 {
+  font-family: 'Comfortaa', cursive;
+  text-transform: none;
+  color:black;
+}
+
+header {
+  background-image: none;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #989898;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand {
+    color:red;
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  header .header-content .header-content-inner {
+      max-width: none;
+  }
+}
+
+div.header-content-inner {
+  animation-duration: 3s;
+  /* animation-delay: 2s; */
+}
+
+div.software-skills,
+div.education,
+div.hobby {
+  text-align: left;
+  float:left;
+}
+
+div.software-skills hr,
+div.education hr,
+div.hobby hr{
+  margin-left:0px;
+  width:50vw;
+  max-width:50vw;
+}
+
+div.hardware-skills,
+div.certification {
+  text-align: right;
+  float:right;
+}
+
+div.hardware-skills hr,
+div.certification hr{
+  margin-right:0px;
+  width:50vw;
+  max-width:50vw;
+}
+
+ul.timeline {
+  list-style-type: none;
+  position: relative;
+}
+ul.timeline:before {
+  content: ' ';
+  background: #d4d9df;
+  display: inline-block;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+  z-index: 400;
+}
+
+ul.timeline > li {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+ul.timeline > li:before {
+  content: ' ';
+  background: white;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid #22c0e8;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
+}
+
+
+ul.project-timeline {
+  list-style-type: none;
+  position: relative;
+  /* direction: left; */
+}
+ul.project-timeline:before {
+  content: ' ';
+  background: #d4d9df;
+  display: inline-block;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+  z-index: 400;
+}
+
+ul.project-timeline > li {
+  margin: 20px 0;
+  padding-left: 20px;
+}
+ul.project-timeline > li:before {
+  content: ' ';
+  background: white;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid #22c0e8;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
+}
+
+/* h2.right-data {
+  text-align:right;
+} */
+
+section#projects {
+  /* background-image: url("../img/header.jpg"); */
+}
+
+/* span.timeline-header,
+span.timeline-left-header,
+span.timeline-right-header,
+ul.class.timeline-list > li {
+  direction: ltr;
+} */
+
+div.social-items {
+  display:inline-block;
+  margin: 0px 5%;
+}
+
+div.header-content-inner > h1 {
+  font-size:5vw;
+  width:100%;
+  /* overflow:auto; */
+}
+
+div.header-content-inner > h2 {
+  font-size:2.5vw;
+  width:100%;
+}
+
+.title {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.detail-content {
+  font-family: 'Lustria', serif;
+}
+
+section#about h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+/* section#about li{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 120%;
+  font-weight: 100; 
+} */
+
+section#experience li,
+section#projects li,
+section#about li {
+  font-family: 'Lustria', serif;
+  font-size: 20px;
+  margin: 5px 0px;
+}
+
+section#projects ul.project-timeline li,
+section#experience ul.timeline li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+section#experience div.container ul,
+section#projects div.container ul{
+  padding-left: 10%;
+}
+
+section#experience span.timeline-header,
+section#projects span.timeline-header {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 120%;
+  font-weight: bold;
+}
+section#experience span.timeline-left-header {
+  float: left;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 100%;
+  font-weight: bolder;
+  font-style: italic;
+}
+section#experience span.timeline-right-header,
+section#projects span.timeline-right-header {
+  float: right;
+  font-family: 'Cantarell', sans-serif;
+  font-size: 100%;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+section#about h2,
+section#experience h2,
+section#projects h2,
+section#contact h2 {
+  font-family: 'Comfortaa', cursive;
+}
+
+section#projects a{
+  color: white;
+}
+
+section#contact a i:hover {
+  color:red;
+  transform: scale(1.5);
+  transition-duration: 1s;
+}
